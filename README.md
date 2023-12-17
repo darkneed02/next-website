@@ -1,3 +1,4 @@
+![image description](https://github.com/darkneed02/next-website/blob/master/web%20sec.png)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
